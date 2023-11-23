@@ -1,0 +1,108 @@
+{
+    "forms": [
+        {
+          "masterTitle": "Students",
+          "forms": [
+            {
+              "label": "Student Intake and Strength",
+              "path": "/students/intake-and-strength"
+            },
+            {
+              "label": "PHD",
+              "path": "/students/phd"
+            },
+            {
+              "label": "Placement",
+              "path": "/students/placement"
+            }
+          ]
+        },
+        {
+          "masterTitle": "Faculty",
+          "forms": [
+            {
+              "label": "Faculty Count",
+              "path": "/faculties/faculty-count"
+            },
+            {
+              "label": "Faculty Details",
+              "path": "/faculties/faculty-details"
+            },
+            {
+              "label": "International",
+              "path": "/faculties/faculty-faculty"
+            }
+          ]
+        },
+        {
+          "masterTitle": "Research & Patents",
+          "forms": [
+            {
+              "label": "Project Sponsor",
+              "path": "/research-and-patents/project-sponsors"
+            },
+            {
+              "label": "Research Staff",
+              "path": "/research-and-patents/research-staff"
+            },
+            {
+              "label": "Patent Details",
+              "path": "/research-and-patents/patent-details"
+            },
+            {
+              "label": "Executive Development",
+              "path": "/research-and-patents/executive-development"
+            },
+            {
+              "label": "Consultancy Project",
+              "path": "/research-and-patents/consultancy-project"
+            }
+          ]
+        },
+        {
+          "masterTitle": "Academic",
+          "forms": [
+            {
+              "label": "Academic Peers",
+              "path": "/academic-peers"
+            }
+          ]
+        },
+        {
+          "masterTitle": "Employee",
+          "forms": [
+            {
+              "label": "Employee Data",
+              "path": "/employee-data"
+            }
+          ]
+        },
+        {
+          "masterTitle": "Academic",
+          "forms": [
+            {
+              "label": "Academic Peers",
+              "path": "/academic-peers"
+            }
+          ]
+        },
+        {
+          "masterTitle": "Financial",
+          "forms": [
+            {
+              "label": "Financial Expenditure",
+              "path": "/financial/financial-expenditure"
+            }
+          ]
+        },
+        {
+          "masterTitle": "Infrastructure",
+          "forms": [
+            {
+              "label": "PCS",
+              "path": "/infrastructure/pcs"
+            }
+          ]
+        }
+      ]
+}
